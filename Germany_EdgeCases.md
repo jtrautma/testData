@@ -10,7 +10,7 @@
 ## Street name leads with number
 * 26817; Rauderfehn; "3. Südwieke"
 
-## Towns situated on Austrian soil that _also_ feature a German ZIP code (due to the mountaineous terrain they're only accessible from the German side of the border)
+## Towns situated on Austrian soil that _also_ feature a German ZIP code (due to the mountainous terrain they're only accessible from the German side of the border)
 * 87491; Jungholz
 * 87567; Riezlern
 * 87568; Hirschegg
