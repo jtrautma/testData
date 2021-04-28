@@ -24,6 +24,10 @@
 ## Only 1 street in area covered by this PLZ
 * 33333; Gütersloh; "An der Autobahn"
 
-## Street spans across several PLZ areas
+## Street that spans across several PLZ areas
 * 10785; Berlin; "Straße des 17. Juni"; 55
 * 10623; Berlin; "Straße des 17. Juni"; 200
+
+## Street that spans across several cities
+* 03130; Spremberg; "Am Wald"
+* 03130; Felixsee; "Am Wald"
