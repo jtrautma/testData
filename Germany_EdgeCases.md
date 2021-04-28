@@ -16,3 +16,10 @@
 * 87567; Riezlern
 * 87568; Hirschegg
 * 87569; Mittelberg
+
+## One ZIP code (PLZ) shared my multiple towns
+* 03130; [Felixsee, Jämlitz-Klein Düben, Spremberg, Tschernitz]
+* 25924; [Emmelsbüll-Horsbüll, Friedrich-Wilhelm-Lübke-Koog, Klanxbüll, Rodenäs]
+
+## Only 1 street in area covered by this PLZ
+* 33333; Gütersloh; "An der Autobahn"
