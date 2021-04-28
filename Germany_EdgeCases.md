@@ -2,6 +2,7 @@
 
 ## Street name includes number
 * 10623; Berlin; "Straße des 17. Juni"
+* 13125; Berlin; "Str. 94"
 
 ## Street name ends in number
 * 55122; Mainz; "Bahnwärterhaus 39"
