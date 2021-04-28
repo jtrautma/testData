@@ -23,3 +23,7 @@
 
 ## Only 1 street in area covered by this PLZ
 * 33333; Gütersloh; "An der Autobahn"
+
+## Street spans across several PLZ areas
+* 10785; Berlin; "Straße des 17. Juni"; 55
+* 10623; Berlin; "Straße des 17. Juni"; 200
