@@ -32,5 +32,7 @@
 * 03130; Spremberg; "Am Wald"
 * 03130; Felixsee; "Am Wald"
 
-## Fractional numbers in an address
+## Hausnummer edge cases
 * 86156; Augsburg; "Kobelweg"; 12 1/5
+* 68161; Mannheim; "L7"; 3-5
+* 65239; Hochheim am Main; "Feldbergstr."; 9d
