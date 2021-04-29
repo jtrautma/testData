@@ -31,3 +31,6 @@
 ## Street that spans across several cities
 * 03130; Spremberg; "Am Wald"
 * 03130; Felixsee; "Am Wald"
+
+## Fractional numbers in an address
+* 86156; Augsburg; "Kobelweg"; 12 1/5
