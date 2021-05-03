@@ -3,6 +3,7 @@
 ## Street name includes number
 * 10623; Berlin; "Straße des 17. Juni"
 * 13125; Berlin; "Str. 94"
+* 82377; Penzberg; "Str. des 28. April 1945"
 
 ## Street name ends in number
 * 55122; Mainz; "Bahnwärterhaus 39"
